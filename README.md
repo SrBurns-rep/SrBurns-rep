@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 ## Projects
 ### [Embedded Systems]()
 ### [Hardware and PCBs]()
-### [Implementations]()
+### [Implementations](https://github.com/SrBurns-rep/C-Object-Lib)
 ### [Web]()
 ### [Hacks]()
 ## Languages
-### [C/C++]()
+### [C/C++](https://github.com/SrBurns-rep/C-Object-Lib)
 ### [Python]()
 ### [JavaScript]()
 

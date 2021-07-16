@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 -->
 
 # Wellcome to SrBurns's GitHub Profile
----
 ## Projects
 ### [Embedded Systems]()
 ### [Hardware and PCBs]()
@@ -25,3 +24,5 @@ Here are some ideas to get you started:
 ### [C/C++]()
 ### [Python]()
 ### [JavaScript]()
+
+---

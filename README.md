@@ -14,5 +14,14 @@ Here are some ideas to get you started:
 -->
 
 # Wellcome to SrBurns's GitHub Profile
-
-
+---
+## Projects
+### * [Embedded Systems]()
+### * [Hardware and PCBs]()
+### * [Implementations]()
+### * [Web]()
+### * [Hacks]()
+## Languages
+### * [C/C++]()
+### * [Python]()
+### * [JavaScript]()

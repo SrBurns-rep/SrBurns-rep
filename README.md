@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Wellcome to SrBurns's GitHub Profile
+# Wellcome to SrBurns' GitHub Profile
 ## Projects
 ### [Embedded Systems]()
 ### [Hardware and PCBs]()

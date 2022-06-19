@@ -15,14 +15,14 @@ Here are some ideas to get you started:
 
 # Wellcome to SrBurns' GitHub Profile
 ## Projects
-### [Embedded Systems]()
-### [Hardware and PCBs]()
+### [Embedded Systems](https://github.com/SrBurns-rep/rosbeef)
+### ~~[Hardware and PCBs]()~~
 ### [Implementations](https://github.com/SrBurns-rep/C-Object-Lib)
-### [Web]()
-### [Hacks]()
+### ~~[Web]()~~
+### ~~[Hacks]()~~
 ## Languages
 ### [C/C++](https://github.com/SrBurns-rep/C-Object-Lib)
-### [Python]()
-### [JavaScript]()
+### ~~[Python]()~~
+### ~~[JavaScript]()~~
 
 ---

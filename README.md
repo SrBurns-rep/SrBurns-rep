@@ -29,6 +29,7 @@ I'm a focus deprived engineer trying to improve my career, my interests are: Rob
 - [ ] Genetic Algorithms
 - [ ] Graph based Neural Networks
 - [ ] PCB Making
+- [ ] FPGA Verilog
 - [ ] Review the basics of Control Systems
 - [ ] Review the basics of Power Electronics
 - [ ] Robot Mechanics

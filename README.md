@@ -14,15 +14,22 @@ Here are some ideas to get you started:
 -->
 
 # Wellcome to SrBurns' GitHub Profile
-## Projects
-### [Embedded Systems](https://github.com/SrBurns-rep/rosbeef)
-### ~~[Hardware and PCBs]()~~
-### [Implementations](https://github.com/SrBurns-rep/C-Object-Lib)
-### ~~[Web]()~~
-### ~~[Hacks]()~~
-## Languages
-### [C/C++](https://github.com/SrBurns-rep/C-Object-Lib)
-### ~~[Python]()~~
-### ~~[JavaScript]()~~
+I'm a focus deprived engineer trying to improve my career, my interests are: Robotics, Embedded Systems and Programming.
 
+## To make
+- [ ] Working version of denv
+- [ ] IPC library based on denv
+- [ ] Custom GUI for serial line
+- [ ] Development board with the s2lp radio
+- [ ] Simulate robots in Gazebo
+
+## To learn
+### Topics
+- [ ] Robot Navigation
+- [ ] Genetic Algorithms
+- [ ] Graph based Neural Networks
+- [ ] PCB Making
+- [ ] Review the basics of Control Systems
+- [ ] Review the basics of Power Electronics
+- [ ] Robot Mechanics
 ---

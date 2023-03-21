@@ -24,7 +24,6 @@ I'm a focus deprived engineer trying to improve my career, my interests are: Rob
 - [ ] Simulate robots in Gazebo
 
 ## To learn
-### Topics
 - [ ] Robot Navigation
 - [ ] Genetic Algorithms
 - [ ] Graph based Neural Networks

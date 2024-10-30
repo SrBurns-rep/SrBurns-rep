@@ -11,8 +11,8 @@
  * FreeRTOS
 
 ## Projects I made
- * [ROS Motor](https://github.com/SrBurns-rep/ros_motor_comm)
- * [rosbeef](https://github.com/SrBurns-rep/rosbeef)
+ * [Rosbeef](https://github.com/SrBurns-rep/rosbeef)
+ * [Double Pendulum](https://github.com/SrBurns-rep/double-pendulum) 
  * [C Object Lib](https://github.com/SrBurns-rep/C-Object-Lib) (A failed attempt to bring objects to C)
 
 ## Interests

@@ -6,9 +6,13 @@
  * IoT Device (Not published yet)
 
 ## Learning
+ * Linux System Administration
  * Bash
- * Lua
- * FreeRTOS
+
+## Wants to learn
+  * Graph Theory
+  * Automatic Control
+  * Go back to the Embedded Systems roadmap
 
 ## Projects I made
  * [Rosbeef](https://github.com/SrBurns-rep/rosbeef)

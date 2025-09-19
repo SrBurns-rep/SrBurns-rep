@@ -6,6 +6,7 @@
  * IoT Device (Not published yet)
 
 ## Learning
+ * [Robotics Postgraduation at UFV](https://portalead.cead.ufv.br/saaf/lato-sensu/curso/ver/robotica/)
  * Linux System Administration
  * Bash
 
@@ -20,6 +21,7 @@
  * [C Object Lib](https://github.com/SrBurns-rep/C-Object-Lib) (A failed attempt to bring objects to C)
 
 ## Interests
+ * Robotics
  * IoT
  * Embedded Systems
  * Memory management

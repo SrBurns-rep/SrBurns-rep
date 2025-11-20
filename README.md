@@ -1,9 +1,9 @@
 # Wellcome to Caio Burns' (SrBurns) GitHub Profile
 
 ## Current Projects I'm working on
+ * [muio IoT device](https://github.com/SrBurns-rep/muio)
  * [Denv](https://github.com/SrBurns-rep/denv)
  * [Priority System](https://github.com/SrBurns-rep/pr)
- * IoT Device (Not published yet)
 
 ## Learning
  * [Robotics Postgraduation at UFV](https://portalead.cead.ufv.br/saaf/lato-sensu/curso/ver/robotica/)
